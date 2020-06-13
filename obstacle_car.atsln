@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "obstacle_car", "obstacle_car\obstacle_car.cproj", "{DAE50751-3FC7-4BF3-8AFB-C02BC525C403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE50751-3FC7-4BF3-8AFB-C02BC525C403}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DAE50751-3FC7-4BF3-8AFB-C02BC525C403}.Debug|AVR.Build.0 = Debug|AVR
+		{DAE50751-3FC7-4BF3-8AFB-C02BC525C403}.Release|AVR.ActiveCfg = Release|AVR
+		{DAE50751-3FC7-4BF3-8AFB-C02BC525C403}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
